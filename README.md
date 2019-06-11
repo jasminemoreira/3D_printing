@@ -10,4 +10,4 @@ Jasmine Moreira
 
 PS. assine o canal, deixe seu like e ative as notificações!
 
-https://www.youtube.com/channel/UChxwdFk4twkLyD7mRrXRtyA?view_as=subscriber
+https://www.youtube.com/channel/UChxwdFk4twkLyD7mRrXRtyA
