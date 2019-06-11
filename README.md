@@ -1,7 +1,7 @@
 # 3D_printing
 Olá, Seja bem-vinda, seja bem-vindo!
 
-Este repositório faz parte do canal CULTURA MAKER do YouTube.
+Este repositório faz parte do canal CULTURA MAKER.
 Aqui você encontrará ferramentas úteis para trabalhar com impressão 3D. 
 
 Desejo boas impressões!!!
