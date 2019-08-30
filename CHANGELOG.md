@@ -1,3 +1,11 @@
+30/08/2019
+
+Atualização: O modo de extrusão relativa foi removido de todos os perfis em função de incompatibilidade com alguns plugins. 
+
+25/08/2019
+
+O repositório foi reorganizado e profiles específicos para a versão 4.2.1 do Cura foram adicionados.
+
 02/07/2019
 
 Atualização: jas_pla_ultrafast_v2.3 -> jas_pla_ultrafast_v2.4
