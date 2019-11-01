@@ -9,9 +9,13 @@ Agradecimentos especiais a Slim3D e a todos os patrocinadores do canal!!!
 
 https://www.slim3d.com.br
 
+Patrocine:
+
 https://www.patreon.com/culturamaker
 
-Desejo boas impressões!!!
+https://picpay.me/culturamaker
+
+Boas impressões!!!
 
 Jasmine Moreira 
 
